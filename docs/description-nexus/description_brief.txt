@@ -1,1 +1,1 @@
-{TitleName} is a mod that does a thing.
+SkyUI Extended is a mod that does a thing.

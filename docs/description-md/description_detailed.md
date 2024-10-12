@@ -1,8 +1,8 @@
-# \[center\]![{TitleName}](https://raw.githubusercontent.com/{GitHubAccount}/{RepositoryName}/main/docs/images/brand/Title.png)\[/center\]
+# \[center\]![SkyUI Extended](https://raw.githubusercontent.com/{GitHubAccount}/{RepositoryName}/main/docs/images/brand/Title.png)\[/center\]
 
 ## \[center\]![Overview](https://raw.githubusercontent.com/{GitHubAccount}/{RepositoryName}/main/docs/images/banners/Overview.png)\[/center\]
 
-\[font=Verdana\]**{TitleName}**\[/font\] (or \[font=Verdana\]**{TitleNameShort}**\[/font\]) is a mod that does a thing.
+\[font=Verdana\]**SkyUI Extended**\[/font\] (or \[font=Verdana\]**{TitleNameShort}**\[/font\]) is a mod that does a thing.
 
 ## \[center\]![Details](https://raw.githubusercontent.com/{GitHubAccount}/{RepositoryName}/main/docs/images/banners/Details.png)\[/center\]
 

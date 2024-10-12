@@ -10,20 +10,6 @@
 			"request": "launch",
 			"program": "${file}",
 			"console": "integratedTerminal"
-		},
-		{
-			"name": "Papyrus Debugger: Debug",
-			"type": "papyrus",
-			"request": "attach",
-			"game": "skyrimSpecialEdition",
-			"projectPath": "${workspaceFolder}/src/Papyrus/project/debug.ppj"
-		},
-		{
-			"name": "Papyrus Debugger: Release",
-			"type": "papyrus",
-			"request": "attach",
-			"game": "skyrimSpecialEdition",
-			"projectPath": "${workspaceFolder}/src/Papyrus/project/release.ppj"
 		}
 	]
 }

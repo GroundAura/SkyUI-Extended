@@ -4,20 +4,6 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Compile Papyrus Scripts (Debug)",
-			"type": "pyro",
-			"projectFile": "src\\Papyrus\\project\\debug.ppj",
-			"gamePath": "${config:papyrus.skyrimSpecialEdition.installPath}",
-			"problemMatcher": ["$PapyrusCompiler"]
-		},
-		{
-			"label": "Compile Papyrus Scripts (Release)",
-			"type": "pyro",
-			"projectFile": "src\\Papyrus\\project\\release.ppj",
-			"gamePath": "${config:papyrus.skyrimSpecialEdition.installPath}",
-			"problemMatcher": ["$PapyrusCompiler"]
-		},
-		{
 			"label": "copy-img.bat",
 			"type": "shell",
 			"command": "scripts\\copy-img.bat",
@@ -58,14 +44,6 @@
 			"group": "build",
 			"dependsOn": [
 				"md2nexus.bat"
-			]
-		},
-		{
-			"label": "Compile Papyrus scripts",
-			"group": "build",
-			"dependsOn": [
-				"Compile Papyrus Scripts (Debug)",
-				"Compile Papyrus Scripts (Release)"
 			]
 		},
 		{

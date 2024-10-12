@@ -1,7 +1,7 @@
-# {TitleName}
+# SkyUI Extended
 
 ---
 
-Welcome to the {TitleName} wiki!
+Welcome to the SkyUI Extended wiki!
 
-{TitleName} is a mod for Skyrim Special Edition.
+SkyUI Extended is a mod for Skyrim Special Edition.

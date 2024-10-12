@@ -1,1 +1,1 @@
-# [{TitleName}](https://github.com/{GitHubAccount}/{RepositoryName}/wiki)
+# [SkyUI Extended](https://github.com/{GitHubAccount}/{RepositoryName}/wiki)
